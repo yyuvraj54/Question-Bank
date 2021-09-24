@@ -1,0 +1,60 @@
+Q The access method used for magnetic tape is_________
+a) Direct 
+b) Random 
+c) Sequential 
+d) None of the above
+c) Sequential 
+Q By Processing we understand _______________
+a) Processing string of only words 
+b) None of the above 
+c) String manipulation only
+d) Processing string of numbers and special symbols
+b) None of the above 
+Q The difference between memory and storage is that the memory is__________ and storage is_________
+a) Temporary, permanent 
+b) Permanent, temporary 
+c) Slow, fast
+d) None of the above
+a) Temporary, permanent 
+Q Which of the Following holds the ROM, CPU, RAM and expansion cards
+a) Hard disk 
+b) Floppy disk 
+c) Mother board 
+d) None of the above
+c) Mother board 
+Q The language that the computer can understand and execute is called ______
+a) Machine language 
+b) Application software 
+c) System program
+d) None of the above
+a) Machine language 
+Q Which of the following devices can be used to directly input printed text
+a) OCR 
+b) OMR 
+c) MICR 
+d) None of the above
+a) OCR 
+Q A floppy disk contains
+a) Circular tracks only 
+b) Sectors only 
+c) Both circular tracks and sectors
+d) None of the above
+c) Both circular tracks and sectors
+Q CD-ROM is a
+a) Semiconductor memory 
+b) Memory register 
+c) Magnetic memory
+d) None of the above
+d) None of the above
+Q Actual execution of instructions in a computer takes place in
+a) ALU
+b) Control Unit 
+c) Storage unit 
+d) None of the above
+a) ALU
+Q Which of the following is used as a primary storage device
+a) Magnetic tape 
+b) PROM
+c) Floppy disk 
+d) None of the above
+b) PROM

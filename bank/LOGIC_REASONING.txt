@@ -1,0 +1,60 @@
+Q Which letter is seventh from left of 16th from right in English alphabet?
+(A) D
+(B) W
+(C) R
+(D) E
+(A) D
+Q Which letter is 5th at right of 12 from right?
+(A) Q
+(B) P
+(C) G
+(D) R
+(C) G
+Q If the 2nd half of an English alphabet is written in reverse order, which letter will be the 5th at left from 21st letter from left?
+(A) L
+(B) X
+(C) M
+(D) Q
+(B) X
+Q If the 2nd half of an English alphabet is written in the reverse sequence, which will be the 6th letter at right from the 18th letter from left?
+(A) X
+(B) P
+(C) O
+(D) N
+(B) P
+Q If the letters of an English alphabet are written in the reverse order, which will be the 4th letter at right from the 13th letter from left?
+(A) J
+(B) L
+(C) K
+(D) M
+(A) J
+Q If 72 x 96 = 6927, 58 x 87 = 7885, then 79 x 86 = ?
+(A) 7689
+(B) 8976
+(C) 6897
+(D) 6978
+(C) 6897
+Q If 11 (170)16, 11(203)19, then value of 17(?)18 will be –
+(A) 200
+(B) 300
+(C) 400
+(D) None of these
+(B) 300
+Q If Wednesday is the holiday, then the code will be 2 – 4. If Thursday is a holiday, then the code will be 3-3. Which of the following codes is corrects on the basis of the holiday?
+(A) 2-4
+(B) 3-3
+(C) None of these
+(D) Cannot be determined
+(C) None of these
+Q Which lecture will be conducted on Friday?
+(A) Economics
+(B) None of these
+(C) Computer Science
+(D) Cannot be determined
+(B) None of these
+Q How many lectures were organized between Economics & Psychology?
+(A) One
+(B) Two
+(C) Three
+(D) Cannot be determined
+(C) Three
