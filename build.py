@@ -203,10 +203,10 @@ def interface(sub):
     opt40.pack(pady = (20,20))
 
     problem()
-    lblwar = Label(scie, text = "Hurry! TIME IS TICKING...", font = ("Times", 24, "bold"), background = "#73b1bc", foreground = "red")
+    lblwar = Label(scie, text = "Hurry! Time is Ticking...", font = ("Times", 24, "bold"), background = "#73b1bc", foreground = "red")
     lblwar.pack(pady = (50,50))
 
-
+# //New Thread
     th=Thread(target = timeing)
     th.start()
     scie.mainloop()
